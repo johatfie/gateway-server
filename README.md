@@ -1,6 +1,7 @@
 # API Gateway for Widgets Are Us microservices project
 
-## Frameworks and Dependencies
+## Technologies
+- Java 11
 - Spring Boot 2.4.3
 - Spring Cloud 2020.0.1
 - Docker
